@@ -26,3 +26,40 @@ Deep learning-based speech enhancement (SE) methods predominantly draw upon two 
 We used two public datasets in this experiment:
 - [VoiceBank-DEMAND](https://datashare.ed.ac.uk/items/6ed35425-bf14-4d2b-93a1-0a4984952757)
 - [Interspeech 2020 DNS Challenge](https://github.com/microsoft/DNS-Challenge/tree/interspeech2020/master)
+
+The experiment directory is organized as follows:
+```bash
+AFSE/
+├── ...
+└── datasets/
+    ├── VCTK/
+        ├── train/
+        │   ├── clean/
+        │   └── noisy/
+        └── test/
+            ├── clean/
+            └── noisy/
+```
+
+## Training
+```bash
+python estrain.py
+```
+
+## Inference
+```bash
+python test.py 
+```
+
+## 📑Citation
+If you find this repository useful, please cite our paper:
+```
+@inproceedings{wang2025AFSE,
+  title     = {An Association-based Fusion Method for Speech Enhancement},
+  author    = {Wang, Shijie and Guo, Qian and Chen, Lu and Du, Liang and Jin, Zikun and Yuan, Zhian and Liang, Xinyan},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
+               Artificial Intelligence, {IJCAI-25}},
+  pages     = {6406--6414},
+  year      = {2025}
+}
+```
