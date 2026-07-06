@@ -32,7 +32,7 @@ The experiment directory is organized as follows:
 AFSE/
 ├── ...
 └── datasets/
-    ├── VCTK/
+    └── VCTK/
         ├── train/
         │   ├── clean/
         │   └── noisy/
