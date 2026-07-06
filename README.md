@@ -1,13 +1,13 @@
 \<h2 align="center"> <a href="https://www.ijcai.org/proceedings/2025/713">An association-based fusion method for speech enhancement</a></h2>
 
 <div align="center">
-Shijie Wang, Qian Guo, Lu Chen, Liang Du, Zikun Jin, Zhian Yuan, Xinyan Liang
+
 **[_Shijie Wang_<sup>1</sup>](https://jie019.github.io/), _Qian Guo_<sup>2</sup>, _Lu Chen_<sup>1</sup>, _Liang Du_<sup>1</sup>, _Liang Du_<sup>1</sup>, _Zikun Jin_<sup>1</sup>, _Zhian Yuan_<sup>1</sup>, [_Xinyan Liang_<sup>1</sup>](https://xinyanliang.github.io/)**
 
 <sup>1</sup>SXU <sup>2</sup>TYUST
 
 
-<a href='https://www.ijcai.org/proceedings/2025/713'><img src='https://img.shields.io/badge/IJCAI%202025-Spotlight-blue'></a>&nbsp;
+<a href='https://www.ijcai.org/proceedings/2025/713'><img src='https://img.shields.io/badge/IJCAI%202025-blue'></a>&nbsp;
 
 </div>
 
