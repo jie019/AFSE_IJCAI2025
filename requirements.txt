@@ -1,0 +1,9 @@
+tqdm
+joblib
+numpy
+scipy
+pesq
+pystoi
+soundfile
+librosa
+wandb
