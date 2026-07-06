@@ -1,4 +1,4 @@
-\<h2 align="center"> <a href="https://www.ijcai.org/proceedings/2025/713">An association-based fusion method for speech enhancement</a></h2>
+<h2 align="center"> <a href="https://www.ijcai.org/proceedings/2025/713">An association-based fusion method for speech enhancement</a></h2>
 
 <div align="center">
 
